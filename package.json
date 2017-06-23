@@ -1,5 +1,5 @@
 {
-  "name": "applicarionName.spa.ui",
+  "name": "appname.spa.ui",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -16,7 +16,11 @@
     "angular-ui-router": "0.3.1",
     "angular-ui-utils": "0.1.1",
     "font-awesome": "4.6.3",
-    "oclazyload": "1.0.9"
+    "ng-file-upload": "^12.2.13",
+    "ngclipboard": "^1.1.1",
+    "oclazyload": "1.0.9",
+    "textangular": "^1.5.16",
+    "ui-select": "^0.19.8"
   },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
